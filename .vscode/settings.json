@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "errno.h": "c",
+        "dirent.h": "c"
+    }
+}
